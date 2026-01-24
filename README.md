@@ -57,7 +57,7 @@ For more details, refer to [docs/requirements.md](docs/requirements.md).
 
 ## 📂 Repository Structure
 ```
-data-warehouse-project/
+SQL-Data_warehouse/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
