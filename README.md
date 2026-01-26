@@ -41,19 +41,6 @@ Designing and implementing a modern data warehouse to consolidate sales data fro
 
 ---
 
-### 📊 Business Intelligence: Analytics & Reporting (Data Analysis)
-
-#### Objective
-Developing SQL-based analytical queries and reports to extract meaningful business insights related to:
-
-- **Customer Behavior** – purchasing patterns, customer segmentation, and retention indicators  
-- **Product Performance** – sales contribution, product popularity, and revenue trends  
-- **Sales Trends** – time-based analysis, growth patterns, and performance metrics  
-
-These analytics enable stakeholders to monitor key performance indicators (KPIs) and make informed, data-driven decisions.
-
-
-For more details, refer to [docs/requirements.md](docs/requirements.md).
 
 ## 📂 Repository Structure
 ```
