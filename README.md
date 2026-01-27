@@ -64,11 +64,9 @@ SQL-Data-warehouse/
 │
 ├── README.md                           # Project overview and instructions
 └── LICENSE                             # License information for the repository
+
 ---
-
-
-
-##🛡️ License
+## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
