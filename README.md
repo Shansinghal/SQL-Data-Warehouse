@@ -36,8 +36,6 @@ Designing and implementing a modern data warehouse to consolidate sales data fro
 - **Data Sources**: Ingest data from two heterogeneous source systems (ERP and CRM) provided as CSV files.
 - **Data Quality**: Perform data cleansing, validation, and standardization to address inconsistencies and missing values.
 - **Data Integration**: Merge data from multiple sources into a unified, analytics-friendly dimensional model.
-- **Scope**: Work with the latest snapshot of data only; historical versioning is intentionally excluded.
-- **Documentation**: Maintain clear and structured documentation of the data architecture, data models, and transformation logic to support both technical and business users.
 
 ---
 
