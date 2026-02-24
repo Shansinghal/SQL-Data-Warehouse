@@ -1,5 +1,5 @@
 
-# Medallion Architecture–Based Data Warehouse
+# Medallion Architecture Based Data Warehouse
 
  
 This project implements an end-to-end data warehousing architecture, from raw data ingestion to structured storage. Advanced analytics and business intelligence layers are planned and will be integrated in subsequent iterations.
